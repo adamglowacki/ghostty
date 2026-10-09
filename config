@@ -48,6 +48,12 @@
 # resize-overlay-duration = 4s 200ms
 
 #font-family = CodeNewRoman Nerd Font
+#font-family = Iosevka Nerd Font
+#font-family = FiraCode Nerd Font
+#font-family = FantasqueSansM Nerd Font
+#font-family = AnonymicePro Nerd Font
+font-family = Adwaita Mono
+font-size = 13
 window-padding-balance = true
 theme = "light:Adwaita,dark:Adwaita Dark"
 window-theme = system
